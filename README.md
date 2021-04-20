@@ -2,8 +2,8 @@
 ai learn how to navigate i guess
 
 # controls
-right/left click -> add and destroy obstacle
-right click + shift -> move the target
+right/left click -> add and destroy obstacle\
+right click + shift -> move the target\
 p -> pause
 
 
